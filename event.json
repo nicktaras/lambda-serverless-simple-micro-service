@@ -1,0 +1,14 @@
+{
+  "method": "CREATE",
+  "queryStringParameters": {},
+  "payload": {
+    "First_Name": "David",
+    "Last_Name": "Attenborough",
+    "Special_Power": "Changing the world for the better",
+    "Why_Not_John_Doe": "Because there are too many John Doe's out there"
+  },
+  "body": {},
+  "headers": {},
+  "params": {},
+  "query": {}
+}
