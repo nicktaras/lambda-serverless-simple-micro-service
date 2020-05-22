@@ -1,4 +1,4 @@
-# Lambda Node Js API 101.
+# lambda-serverless-simple-micro-service
 
 
 This example is based upon the example template inside this node-lambda package https://www.npmjs.com/package/node-lambda.
