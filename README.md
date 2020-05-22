@@ -25,7 +25,7 @@ context - The context object recieved contains information about the lambda func
 
 callback - in many examples this has been removed from the initial construct, which suggests the use of a callback is not widely used as best practice. I'll update this as I find out more about the behaviours of Lambda as a tool for serving your awesome microservice or API.
 
-## Strange things...
+## Stranger things...
 
 
 The templating system seems a bit odd. Like some kind of Java templating system, rather than an elegant way of being able to pull out code with JS which would provide more control to a developer. This with regards to how you can transfer the data from a request back into the function itself. Let's see, maybe its amazing - even though looks so rigid and confusing from the outside.
