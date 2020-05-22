@@ -4,7 +4,7 @@
 This example is based upon the example template inside this node-lambda package https://www.npmjs.com/package/node-lambda.
 
 
-The aim of this repo and effort is to understand and uncover the workings of using serverless. There are many layers of technology used to create even the most simple mircoservice, you may find that you can jump ahead and find a template, or like myself, find a sea of solutions and feel unsure as to what is the best solution. 
+The aim of this repo and effort is to understand and uncover the workings of using serverless. There are many layers of technology used to create even the most simple mircoservice, you may find that you can jump ahead and find a template, or like myself, find a sea of solutions and feel unsure as to what is the best for you. 
 
 
 In this persuit, please feel free to message me and share your ideas, learnings.
