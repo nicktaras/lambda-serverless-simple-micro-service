@@ -40,7 +40,11 @@ See the commands available in the package json, to test locally, build and deplo
 
 
 https://www.npmjs.com/package/node-lambda
+
 https://kennbrodhagen.net/2015/12/06/how-to-create-a-request-object-for-your-lambda-event-from-api-gateway/
+
 https://docs.aws.amazon.com/lambda/latest/dg/nodejs-context.html
+
 https://docs.aws.amazon.com/lambda/latest/dg/services-apigateway-code.html#services-apigateway-code-nodejs
+
 https://docs.aws.amazon.com/apigateway/latest/developerguide/integrating-api-with-aws-services-lambda.html
